@@ -1,0 +1,6 @@
+{
+  "name": "AuraEd - Modern Online Coaching Platform",
+  "description": "Comprehensive mobile-first learning platform with courses, live classes, quizzes, mock tests, doubt solving, teacher feeds, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
